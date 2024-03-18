@@ -1,0 +1,5 @@
+streamlit
+spacy
+regex
+nltk
+pickle5
